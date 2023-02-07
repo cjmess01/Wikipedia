@@ -1,5 +1,1 @@
-Here is a test document
-
-Here is a new line
-
-wer
+This repository is used to store files from my wikipedia BFS program
